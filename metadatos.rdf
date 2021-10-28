@@ -13,8 +13,7 @@
     <dc:creator rdfs:Literal="Andres Viveros" />
     <dc:publisher rdfs:Literal="Andres Viveros" />
     <dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
-    <dc:relation dc:source="http://purl.org/dc/terms/creator" rdfs:Literal="Creador" />
-    <dc:relation dc:source="" />
+    <dc:relation dc:source="http://purl.org/dc/terms/creator" rdfs:Literal="https://www.facebook.com/andres.vj3/" />
     <admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
     <foaf:name>Andres Viveros</foaf:name>
     <foaf:phone rdf:resource="tel:+57-314-545-2126" />
