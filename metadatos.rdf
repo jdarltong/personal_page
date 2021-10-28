@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:admin="http://webns.net/mvcb/">
+
+  <rdf:Description rdf:about="https://jdarltong.github.io/personal_page/#">
+    <dc:title>Andres Viveros</dc:title>
+    <dc:description>Sitio personal de pruebas para web semántica.</dc:description>
+    <dc:subject>
+      <rdf:Bag>
+        <rdf:li>web_semántica</rdf:li>
+      </rdf:Bag>
+    </dc:subject>
+    <dc:language>es</dc:language>
+    <dc:creator rdfs:Literal="Andres Viveros" />
+    <dc:publisher rdfs:Literal="Andres Viveros" />
+    <dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
+    <dc:relation dc:source="http://purl.org/dc/terms/creator" rdfs:Literal="Creador" />
+    <dc:relation dc:source="" />
+    <admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+    <foaf:name>Andres Viveros</foaf:name>
+    <foaf:phone rdf:resource="tel:+57-314-545-2126" />
+    <foaf:mbox rdf:resource="mailto:andresviv@unicauca.edu.co" />
+    <foaf:nick>andresviv</foaf:nick>
+  </rdf:Description>
+</rdf:RDF>
